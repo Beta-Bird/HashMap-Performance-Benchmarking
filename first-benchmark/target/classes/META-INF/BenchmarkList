@@ -1,0 +1,4 @@
+JMH S 22 com.jenkov.MyBenchmark S 57 com.jenkov.generated.MyBenchmark_getKeySequential_jmhTest S 16 getKeySequential S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
+JMH S 22 com.jenkov.MyBenchmark S 54 com.jenkov.generated.MyBenchmark_getKeyChaotic_jmhTest S 13 getKeyChaotic S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
+JMH S 22 com.jenkov.MyBenchmark S 46 com.jenkov.generated.MyBenchmark_setup_jmhTest S 5 setup S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
+JMH S 22 com.jenkov.MyBenchmark S 47 com.jenkov.generated.MyBenchmark_delete_jmhTest S 6 delete S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
